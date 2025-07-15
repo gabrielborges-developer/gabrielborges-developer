@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Olá! Sou Gabriel Borges, estudante de Sistemas de Informação na PUC-MG.<br>- Backend Developer</p>
+<p align="left">- Olá! Sou Gabriel Borges, estudante de Sistemas de Informação na PUC-MG.<br>- Backend Developer<br>- Email: gabrielborges.developer@gmail.com </p>
 
 ###
 
