@@ -1,54 +1,48 @@
-<h2 align="left">About me</h2>
+<h1 align="center">Hi everyone, welcome to my GitHub 👋 !!!</h1>
 
 ###
 
-<p align="left">- Olá! Sou Gabriel Borges, estudante de Sistemas de Informação na PUC-MG.<br>- Backend Developer<br>- Email: gabrielborges.developer@gmail.com </p>
+<h3 align="left">My name is Gabriel Borges, a backend developer passionate about creating efficient and robust solutions for real-world problems. I have hands-on experience with Spring Boot, RESTful APIs, automated testing, Docker, and AWS, gained through personal projects and continuous learning.<br><br>I’m currently pursuing a degree in Information Systems at PUC Minas and looking for my first professional opportunity to apply my knowledge, learn best practices, and grow as a developer.<br><br>In addition to my professional journey, I am a dedicated husband who values contributing to the growth and success of those around me.</h3>
 
 ###
 
-<h2 align="left">Techs</h2>
-
-###
-
-<div align="left"> 
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
-
-###
-
-<h2 align="left">Stats</h2>
+<h2 align="left">Languages and Technologies:</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=contattoGabriel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=contattoGabriel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=contattoGabriel&radius=16&theme=github-dark-dimmed&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge" height="40" alt="amazonwebservices logo"  />
 </div>
 
 ###
 
-<h2 align="left">Social</h2>
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/gabrielborgesdev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/gabriel.borges8/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="gabrielborges.developer@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<p align="left">📫 Reach me: gabrielborges.developer@gmail.com</p>
+
+###
+
+<p align="left">Thank you for visiting my profile. Contact me for any collaboration opportunities or simply to exchange ideas about technology!</p>
 
 ###
