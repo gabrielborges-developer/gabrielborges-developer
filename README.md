@@ -6,6 +6,7 @@
 Atuo no desenvolvimento backend com foco em escalabilidade e boas práticas de arquitetura.<br><br>
 Meu objetivo é evoluir continuamente até me tornar um <strong>Arquiteto de Software</strong>, unindo técnica e visão estratégica para construir sistemas sólidos e eficientes.
 </h3>
+
 ###
 
 <h2 align="left">Languages and Technologies:</h2>
