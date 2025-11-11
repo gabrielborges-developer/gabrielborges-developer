@@ -9,7 +9,7 @@ Meu objetivo é evoluir continuamente até me tornar um <strong>Arquiteto de Sof
 
 ###
 
-<h2 align="left">Languages and Technologies:</h2>
+<h2 align="left">Linguagens e Tecnologias:</h2>
 
 ###
 
@@ -39,10 +39,15 @@ Meu objetivo é evoluir continuamente até me tornar um <strong>Arquiteto de Sof
 
 ###
 
+<h4
 <p align="left">📫 Reach me: gabrielborges.developer@gmail.com</p>
 
+  
 ###
 
-<p align="left">Thank you for visiting my profile. Contact me for any collaboration opportunities or simply to exchange ideas about technology!</p>
+<p align="left">
+Obrigado por visitar meu perfil. Entre em contato para oportunidades de colaboração ou simplesmente para trocar ideias sobre tecnologia!
+</p>
+
 
 ###
