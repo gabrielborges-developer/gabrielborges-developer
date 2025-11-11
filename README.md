@@ -1,9 +1,11 @@
 <h1 align="center">Hi everyone, welcome to my GitHub 👋 !!!</h1>
 
 ###
-
-<h3 align="left">My name is Gabriel Borges, a backend developer passionate about creating efficient and robust solutions for real-world problems. I have hands-on experience with Spring Boot, RESTful APIs, automated testing, Docker, and AWS, gained through personal projects and continuous learning.<br><br>I’m currently pursuing a degree in Information Systems at PUC Minas and looking for my first professional opportunity to apply my knowledge, learn best practices, and grow as a developer.<br><br>In addition to my professional journey, I am a dedicated husband who values contributing to the growth and success of those around me.</h3>
-
+<h3 align="left">
+👋 Olá! Sou <strong>Gabriel Borges</strong>, desenvolvedor <strong>Java</strong> com experiência em <strong>Spring Boot</strong>, <strong>APIs RESTful</strong>, <strong>Docker</strong> e <strong>AWS</strong>.<br><br>
+Atuo no desenvolvimento backend com foco em escalabilidade e boas práticas de arquitetura.<br><br>
+Meu objetivo é evoluir continuamente até me tornar um <strong>Arquiteto de Software</strong>, unindo técnica e visão estratégica para construir sistemas sólidos e eficientes.
+</h3>
 ###
 
 <h2 align="left">Languages and Technologies:</h2>
