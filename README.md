@@ -4,7 +4,7 @@
 <h3 align="left">
 👋 Olá! Sou <strong>Gabriel Borges</strong>, desenvolvedor <strong>Java</strong> com experiência em <strong>Spring Boot</strong>, <strong>APIs RESTful</strong>, <strong>Docker</strong> e <strong>AWS</strong>.<br><br>
 Atuo no desenvolvimento backend com foco em escalabilidade e boas práticas de arquitetura.<br><br>
-Meu objetivo é evoluir continuamente até me tornar um <strong>Arquiteto de Software</strong>.
+Meu objetivo é evoluir continuamente até me tornar <strong>Arquiteto de Software</strong>.
 </h3>
 
 ###
